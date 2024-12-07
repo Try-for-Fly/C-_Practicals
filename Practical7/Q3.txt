@@ -1,0 +1,1 @@
+In this code, there is no error and the output would be the sum of the two time entered by the user in the format of hours:minutes:seconds.
